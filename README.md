@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codeingyou
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning M.sc (Computer Science)
-- 💞️ I’m looking to collaborate on front-end/Back-end related works.
+- 💞️ I’m looking to collaborate on front-end/Back-end and Maching learning, deep learning related works.
 
 
 <!---
